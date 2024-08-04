@@ -1,0 +1,2 @@
+# DetectItEasyInstaller
+DetectItEasyInstaller by RiritoNinigaya
